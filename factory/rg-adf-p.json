@@ -1,0 +1,9 @@
+{
+	"name": "rg-adf-p",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3344406e-4c60-4c4d-9136-0b133f12ec76",
+		"tenantId": "ece4ae36-9ee5-4b0f-8241-3aa09349419c"
+	}
+}
